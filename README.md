@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Lean Scale**
 
-- 🌱 I’m currently learning **Go, Jest, Docker, Kubernetes**
+- 🌱 I’m currently learning **GraphQL, Jest, Docker**
 
 - 📫 How to reach me **mertolerbil@gmail.com**
 
